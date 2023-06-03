@@ -1,2 +1,2 @@
 # Daily-WebDev-Projects
-Sharpening my web deb skills
+Sharpening my web dev skills
